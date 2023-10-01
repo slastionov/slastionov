@@ -15,7 +15,7 @@
   </a>
 </div>
 
-
+---
 
 ### About me:
 - :man_technologist: Business Analyst (intern) in **[Rosatom](https://greenatom.ru/)**
@@ -37,8 +37,9 @@ title="docker" width="60" heignt="60"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" title="pandas" width="60" heignt="60"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" title="postgreSQL" width="60" heignt="60"/>&nbsp;
           
+---
 
-
+### My statistics:
 <div id="stat" align ="center">          
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=slastionov&theme=react"/>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=slastionov&theme=react"/>
