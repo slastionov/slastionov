@@ -39,10 +39,10 @@ title="docker" width="60" heignt="60"/>&nbsp;
           
 
 
-<div id="header" align ="center">          
-  <img src=http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=slastionov&theme=react"/>
-  <img src=http://github-profile-summary-cards.vercel.app/api/cards/stats?username=slastionov&theme=react"/>
-  <img src=http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=slastionov&theme=react&utcOffset=8"/>
+<div id="stat" align ="center">          
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=slastionov&theme=react"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=slastionov&theme=react"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=slastionov&theme=react&utcOffset=8"/>
 </div>
 
 ---
