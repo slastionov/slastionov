@@ -14,14 +14,17 @@
     <img src="https://img.shields.io/badge/Notion-white?style=for-the-badge&logo=notion&logoColor=black" alt="Notion"/>
   </a>
 
-<style>body {text-align: right}</style>
+
+
+<style> 
 ### About me:
 - :man_technologist: Business Analyst (intern) in **[Rosatom](https://greenatom.ru/)**
 - :school: Stydying in my second year at the **[HSE](https://www.hse.ru/)**
 - :earth_africa: Speak *Russian* (Native), *English* (Intermediate)
 - :revolving_hearts: sports, walking, pleasant communication, esports
 - 💬 In Notion, LinkedIn u can know about my experience, reach me by telegram
-</div>
+{text-align: right}</style>
+
 
 
 ### Tools and languages:
@@ -34,6 +37,8 @@ title="docker" width="60" heignt="60"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" title="pandas" width="60" heignt="60"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" title="postgreSQL" width="60" heignt="60"/>&nbsp;
           
+
+
           
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=slastionov&theme=react)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=slastionov&theme=react)
