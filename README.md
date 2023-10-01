@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/Notion-white?style=for-the-badge&logo=notion&logoColor=black" alt="Notion"/>
   </a>
 
-
+<div align ="left">
 ### About me:
 - :man_technologist: Business Analyst (intern) in **[Rosatom](https://greenatom.ru/)**
 - :school: Stydying in my second year at the **[HSE](https://www.hse.ru/)**
@@ -28,4 +28,9 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg"    
 title="docker" width="45" heignt="45"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" title="jupyter" width="45" heignt="45"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" title="numpy" width="45" heignt="45"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" title="pandas" width="45" heignt="45"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" title="postgreSQL" width="45" heignt="45"/>&nbsp;
+          
+          
           
