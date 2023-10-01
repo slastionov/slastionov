@@ -1,5 +1,5 @@
 <div id="header" align ="center">
-  <h1>Hi there, I'm Nikita</h1> 
+  <h1>Hi there, I'm  Nikita</h1> 
   <h3>Business Analyst from Moscow, Russia</h3>
 </div>
 
@@ -10,21 +10,21 @@
   <a href="https://t.me/slastionov">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
-    <a href="https://www.notion.so/CV-Resume-c3309a1e5f724cd89b9c1dd1188e2742">
+  <a href="https://www.notion.so/CV-Resume-c3309a1e5f724cd89b9c1dd1188e2742">
     <img src="https://img.shields.io/badge/Notion-white?style=for-the-badge&logo=notion&logoColor=black" alt="Notion"/>
   </a>
+</div>
 
 
 
-<style> 
 ### About me:
 - :man_technologist: Business Analyst (intern) in **[Rosatom](https://greenatom.ru/)**
 - :school: Stydying in my second year at the **[HSE](https://www.hse.ru/)**
 - :earth_africa: Speak *Russian* (Native), *English* (Intermediate)
 - :revolving_hearts: sports, walking, pleasant communication, esports
 - 💬 In Notion, LinkedIn u can know about my experience, reach me by telegram
-{text-align: right}</style>
 
+---
 
 
 ### Tools and languages:
@@ -39,7 +39,10 @@ title="docker" width="60" heignt="60"/>&nbsp;
           
 
 
-          
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=slastionov&theme=react)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=slastionov&theme=react)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=slastionov&theme=react&utcOffset=8)
+<div id="header" align ="center">          
+  <img src=http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=slastionov&theme=react"/>
+  <img src=http://github-profile-summary-cards.vercel.app/api/cards/stats?username=slastionov&theme=react"/>
+  <img src=http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=slastionov&theme=react&utcOffset=8"/>
+</div>
+
+---
