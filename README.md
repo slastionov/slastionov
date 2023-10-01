@@ -4,8 +4,8 @@
 </div>
 
 <div id="socials" align ="center">
-  <a href=linkedIn-url">
-    <img scr="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href=linkedin-url">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 
 - 🔭 I’m currently working on ...
