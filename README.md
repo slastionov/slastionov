@@ -17,8 +17,8 @@
 
 
   
-- :man_technologist: Business Analyst (intern) in **[Rosatom] (https://www.rosatom.ru/)**
-- :school: Stydying in my second year at the **[HSE] (https://www.hse.ru/)**
+- :man_technologist: Business Analyst (intern) in **[Rosatom](https://greenatom.ru/)**
+- :school: Stydying in my second year at the **[HSE](https://www.hse.ru/)**
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
