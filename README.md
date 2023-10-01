@@ -3,6 +3,10 @@
   <h3>Business Analyst from Moscow, Russia</h3>
 </div>
 
+<div id="socials" align ="center">
+  <a href=linkedIn-url">
+    <img scr="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
