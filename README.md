@@ -15,10 +15,13 @@
   </a>
 
 
-### **About me:**
+### About me:
 - :man_technologist: Business Analyst (intern) in **[Rosatom](https://greenatom.ru/)**
 - :school: Stydying in my second year at the **[HSE](https://www.hse.ru/)**
 - :earth_africa: Speak *Russian* (Native), *English* (Intermediate)
 - :revolving_hearts: sports, walking, pleasant communication, esports
 - 💬 In Notion, LinkedIn u can know about my experience, reach me by telegram
 
+### Tools and languages:
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="python" width="40" heignt="40"/>&nbsp;
+          
