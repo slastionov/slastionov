@@ -18,7 +18,7 @@
 ---
 
 ### About me:
-- :man_technologist: Business Analyst (intern) in **[Rosatom](https://greenatom.ru/)**
+- :man_technologist: junior Business Analyst in **[Rosatom](https://greenatom.ru/)**
 - :school: Stydying in my second year at the **[HSE](https://www.hse.ru/)**
 - :earth_africa: Speak *Russian* (Native), *English* (Intermediate)
 - :revolving_hearts: sports, walking, pleasant communication, esports
