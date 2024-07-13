@@ -1,6 +1,6 @@
 <div id="header" align ="center">
   <h1>Hi there, I'm  Nikita</h1> 
-  <h3>Business Analyst from Moscow, Russia</h3>
+  <h3>Project manager from Moscow, Russia</h3>
 </div>
 
 <div id="socials" align ="center">
@@ -18,7 +18,7 @@
 ---
 
 ### About me:
-- :man_technologist: junior Business Analyst in **[Rosatom](https://greenatom.ru/)**
+- :man_technologist: junior Project manager in **[Alfa-bank](https://alfabank.ru/)**
 - :school: Stydying in my second year at the **[HSE](https://www.hse.ru/)**
 - :earth_africa: Speak *Russian* (Native), *English* (Intermediate)
 - :revolving_hearts: sports, walking, pleasant communication, esports
