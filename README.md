@@ -19,7 +19,7 @@
 
 ### About me:
 - :man_technologist: junior Project manager in **[Alfa-bank](https://alfabank.ru/)**
-- :school: Stydying in my second year at the **[HSE](https://www.hse.ru/)**
+- :school: Stydying in my third year at the **[HSE](https://www.hse.ru/)**
 - :earth_africa: Speak *Russian* (Native), *English* (Intermediate)
 - :revolving_hearts: sports, walking, pleasant communication, esports
 - 💬 In Notion, LinkedIn u can know about my experience, reach me by telegram
