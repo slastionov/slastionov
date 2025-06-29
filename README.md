@@ -1,6 +1,6 @@
 <div id="header" align ="center">
   <h1>Hi there, I'm  Nikita</h1> 
-  <h3>Project manager from Moscow, Russia</h3>
+  <h3>Strategy Manager from Moscow, Russia</h3>
 </div>
 
 <div id="socials" align ="center">
