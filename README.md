@@ -10,7 +10,7 @@
   <a href="https://t.me/slastionov">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
-  <a href="https://www.notion.so/CV-Resume-c3309a1e5f724cd89b9c1dd1188e2742">
+  <a href="https://drive.google.com/file/d/1W-6ULKrxLbJoWXeSt7GRHdNuziPI_58v/view?usp=sharing">
     <img src="https://img.shields.io/badge/Notion-white?style=for-the-badge&logo=notion&logoColor=black" alt="Notion"/>
   </a>
 </div>
